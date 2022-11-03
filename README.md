@@ -5,7 +5,7 @@
 ## Use Redux toolkit to build this todo app with cool animations using framer-motion.
 ## If you want to learn it then you can follow the tutorial given in the readme file.
 
-![image] (!image.png)
+![image] (image.png)
 
 
 
